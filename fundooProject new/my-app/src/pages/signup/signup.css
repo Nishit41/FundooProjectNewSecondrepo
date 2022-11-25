@@ -1,0 +1,211 @@
+.signupform {
+    margin: 21vh 24vw;
+    border: 1px solid;
+  
+    box-sizing: border-box;
+    height: auto;
+    width: 752px;
+  }
+  
+  #signuphead-img {
+    margin-right: 616px;
+    width: 98px;
+    margin-top: 30px;
+  }
+  
+  #signupcreate-account-desc {
+  
+    margin-right: 550px;
+    font-size: 23px;
+  }
+  
+  
+  
+  .signupsearchbox {
+    width: 100px;
+    font-size: medium;
+  
+  
+  
+    background-color: white;
+  }
+  
+  /* .Container-searchbox{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  
+    } */
+  .signupsearchbox-userName {
+    width: 260px;
+    left: 25px;
+    top: 11px;
+  }
+  
+  .signupContainer-Box {
+    display: flex;
+  }
+  
+  .signuprow-1-searchBox {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  #signupshow-password {
+    margin: 21px;
+    margin-left: 21px;
+    margin-left: 31px;
+  }
+  
+  .signupcontainer-images img {
+    width: 343px;
+  
+  }
+  
+  .signupcontainer-images {
+    box-sizing: border-box;
+    margin-left: 86px;
+    text-align: center;
+  }
+  
+  .signupcontainer-images figcaption {
+    margin-left: 10px;
+    font-size: 22px;
+  }
+  
+  .signupContainer-searchbox {
+    margin-top: 36px;
+  
+  
+  }
+  .css-k4qjio-MuiFormHelperText-root.Mui-error {
+    color: #d32f2f;
+    width: max-content;
+    margin: revert;
+}
+.css-k4qjio-MuiFormHelperText-root {
+  /* color: rgba(0, 0, 0, 0.6); */
+  color: #d32f2f;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.66;
+  letter-spacing: 0.03333em;
+  text-align: left;
+  margin-top: 4px;
+  margin-right: 14px;
+  margin-bottom: 0;
+  margin-left: 14px;
+}
+  
+  .signuprow-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+  }
+  
+  #signupdesc-username {
+    width: 222px;
+  }
+  
+  #signupcreate-a-gmail {
+    width: 250px;
+  }
+  
+  #signuppas-desc {
+    width: 282px;
+  }
+  
+  .signupbuton-text-link {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 71px;
+  
+  }
+  
+  .signupsign-instead {
+    width: 1opx;
+    color: blue;
+  }
+  
+  #signupbutton-dsc {
+    margin-top: 19px;
+    width: 73px;
+    background: blue;
+    color: antiquewhite;
+  }
+  
+  .signupmargin-left {
+    margin-left: 28px;
+  }
+  
+  .signupmargin-text-left {
+    color: crimson;
+    margin-left: 31px;
+    font-size: 11px;
+    margin-top: 17px;
+  }
+  
+  
+  @media(max-width:400px) {
+  
+    .signupform {
+      margin: 21vh 0vw;
+      border: none;
+      height: auto;
+      width: 298px;
+      overflow-x: hidden;
+    }
+  
+  }
+  
+  @media screen and (min-width: 321px) and (max-width: 768px) {
+    .signupform {
+      margin: 21vh 1vw;
+  
+    }
+  }
+  
+  #signupcreate-account-desc {
+    margin-right: 0px;
+    font-size: 21px;
+  }
+  
+  #signupbutton-dsc {
+    margin-left: 56px;
+  }
+  
+  .signupsign-instead {
+  
+    color: blue;
+    margin-left: 15px;
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 1024px) {
+    .signupform {
+      margin: 21vh 3vw;
+      overflow: hidden;
+    }
+  
+  }
+  
+  @media screen and (min-width: 400px) and (max-width: 767px) {
+    .signupform {
+      margin: 21vh 4vw;
+      width: 383px;
+    }
+  
+    .signupcontainer-images {
+      box-sizing: border-box;
+      margin-left: 86px;
+      display: none;
+  
+    }
+  
+  
+  
+  
+  
+  
+  }

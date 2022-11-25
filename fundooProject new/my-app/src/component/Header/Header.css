@@ -1,0 +1,223 @@
+#menu-icon {
+    width: 32px;
+    margin-left: 5px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 9px;
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+    padding: 10px 0px;
+  }
+
+#menu-icon {
+    margin-left: 5px;
+
+}
+ .material-symbols-outlined .md-48{
+ font-weight: 600;
+} 
+
+ #md-48 {
+    margin-top: 18px;
+    font-size: 48px;
+    font-weight: 600;
+} 
+.md-48{
+    margin-top: 17px;
+    font-size: 36px;
+    /* margin: 8px; */
+    margin-left: 5px;
+}
+
+
+
+  
+
+.button-properties {
+    width: 57px;
+    border: none;
+    border-radius: 48px;
+    background-color: #2d722d;
+    font-size: 18px;
+    color: aliceblue
+}
+
+.head-img-dimension {
+    /* width: 60px; */
+    /* margin-top: -2px; */
+    /* position: absolute; */
+    /* bottom: 5px; */
+    /* top: 21px; */
+    /* left: 108px; */
+    width: 60px;
+    /* margin-top: -2px; */
+    position: absolute;
+    /* bottom: -4px; */
+    top: 23px;
+    left: 120px;
+}
+
+.button-properties img {
+    width: 32px;
+}
+
+#nine-dots-icon {
+    width: 32px;
+}
+
+.head-search-box {
+    background: transparent;
+    width: 722px;
+    padding: 0px;
+    padding-left: -48px;
+    margin-left: -145px;
+    margin-right: 150px;
+    background-color:#f4f1f1;
+    border: none;
+    border-radius: 5px;
+    text-align: start;
+  }
+
+  .head-text {
+    margin-left: 20px;
+    margin-right: 272px;
+    border: none;
+    background: border-box;
+    font-size: larger;
+}
+
+.note1{
+    box-shadow: 0px 0px 8px 0px;
+    border-radius: 9px;
+    margin: 14vh 28vw;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid; */
+    width: 43vw;
+
+  
+   
+
+}
+
+.note1-box {
+        height: 42px;
+    border: none;
+    margin: 7px;
+
+}
+
+#text-area-note-2 {
+margin-bottom: 6px;
+    /* margin-bottom: 56px; */
+    /* margin: 26px 8px; */
+    height: 50px;
+    border: none;
+
+
+
+/* 
+    width: 38vw;
+    border-radius: 12px;
+    height: auto;
+    box-shadow: 6px 6px 5px 2px darkgray;
+    margin: 2vh 31vw;
+    border: none; */
+    
+
+}
+textarea:focus, input:focus{
+    outline: 0;
+}
+ #button-name-close{
+    
+    /* margin-left: 740px; */
+    /* position: relative; */
+    /* left: 73px; */
+    border: none;
+    width: 42px;
+    font-size: medium;
+    bottom: 46px;
+    /* padding: 7px 0px;   */
+    background: box;
+    margin-right: 10px;
+    background-color: ghostwhite;
+  
+} 
+.note1-box-container{
+    display: flex;
+
+}
+
+
+
+/* multinotes */
+
+
+.multi-notes-container{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    border: 1px soid;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px 0px;
+    border-radius: 9px;
+    float: left;
+     margin-top: 240px;
+    margin-left: 10vw;
+}
+
+
+#multi-notes-2{
+    margin-top: 10px;
+    border: none;
+    height: 10vh;
+    margin-bottom: -10px;
+
+}
+.multi-notes-1{
+    margin: 10px 0px;
+    border: none;
+    height:5vh;
+
+}
+/* .notescontainer{
+    display:flex ;
+    flex-direction: row;
+    /* background-color: blue; */
+      
+/* } */ 
+  /* .NotesContainer{ 
+   }   */
+.sidenavicons{
+    display: flex;
+    flex-direction: column;
+}
+.SwipeDrawer{
+    /* left: 28px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 36px; */
+
+
+    left: 28px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 36px;
+
+}
+.multi-notes{
+    display: flex;
+}
+.botton-icons-parent{
+    display: flex;
+    justify-content: space-between;
+}
+.botton-icons-take-note-1{
+    display: flex;
+}
